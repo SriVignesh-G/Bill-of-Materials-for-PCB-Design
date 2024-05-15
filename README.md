@@ -1,4 +1,6 @@
 # Bill-of-Materials-for-PCB-Design
+## Name: Sri Vignesh G
+## Reg No: 212223040204
 # Aim
 
 To prepare the Bill of Material for the given circuit.
@@ -58,11 +60,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
+![image](https://github.com/SriVignesh-G/Bill-of-Materials-for-PCB-Design/assets/147576510/3309b977-f8b1-4da0-8949-6c06b8a6f70f)
 
 
 
 
 # Output
+![image](https://github.com/SriVignesh-G/Bill-of-Materials-for-PCB-Design/assets/147576510/205e0705-24f5-4bef-bfd8-a17ad01eeb45)
 
 
 
